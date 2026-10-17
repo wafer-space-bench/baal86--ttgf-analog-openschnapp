@@ -1,0 +1,26 @@
+source:
+  url: https://github.com/baal86/ttgf-analog-openschnapp
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf26c
+  slot: tt_um_baal86_openschnapp
+  project: Openschnapp
+  size: 1x2
+  kind: analog
+  commit: 386c40ca2dfc49b7ad5ba36a035a24e180d2b0df
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf26c/tt_um_baal86_openschnapp
+  branch: tapeout/tinytapeout/ttgf26c/tt_um_baal86_openschnapp
+  page: https://app.tinytapeout.com/shuttles/ttgf26c
+generated: '2026-10-17T23:14:56Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf26c/tt_um_baal86_openschnapp
+- upstream/main
